@@ -41,3 +41,12 @@ body {
     padding: 0px;
     margin: 0px;
 }
+
+#footer-div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    font-size: large;
+    margin-top: 2em;
+    
+}
