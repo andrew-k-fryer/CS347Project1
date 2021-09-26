@@ -3,7 +3,7 @@ header {
     padding: 0px;
 }
 
-h1, h3 {
+h1, h3, h4 {
     margin: 0px;
     padding: 0px;
     padding-left: 1em;
@@ -12,6 +12,10 @@ h1, h3 {
 
 h3 {
     padding-left: 4em;
+}
+
+h4 {
+    padding-top: 8em;
 }
 
 div {
@@ -48,5 +52,5 @@ body {
     justify-content: space-evenly;
     font-size: large;
     margin-top: 2em;
-    
+
 }
