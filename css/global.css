@@ -5,12 +5,13 @@ header {
 
 h1, h3 {
     margin: 0px;
-    padding: 0px;
+    padding-top: .25em;
     padding-left: 1em;
     color: white;
 }
 
 h3 {
+    padding-top: 0em;
     padding-left: 4em;
 }
 
@@ -38,7 +39,7 @@ a {
 }
 
 a:hover {
-    color: white;
+    color: lightblue;
     size: 3em;
 }
 

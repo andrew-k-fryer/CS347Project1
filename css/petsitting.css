@@ -1,0 +1,49 @@
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h2 {
+    color: rgb(53, 53, 78);
+    display: flex;
+    font-size: xx-large;
+    align-self: center;
+    margin-top: 4em;
+}
+
+p {
+    font-size: x-large;
+    flex-grow: 1;
+    padding: 2em;
+}
+
+table {
+    border-style: groove;
+    border-color: rgb(53, 53, 78);
+    height: 2em;
+    width: 16em;
+    font-size: larger;
+    padding: 1em;
+    margin: 2em;
+}
+
+.div {
+    background-color: white;
+    margin-left: 4em;
+    margin-right: 4em;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 10px 5px 10px #888888;
+}
+
+.index-tags {
+    color: rgb(53, 53, 78);
+    padding: 0px;
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}

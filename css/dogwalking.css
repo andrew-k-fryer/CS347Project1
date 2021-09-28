@@ -16,6 +16,7 @@ h2 {
 p {
     font-size: x-large;
     flex-grow: 1;
+    padding: 2em;
 }
 
 table {
@@ -24,6 +25,8 @@ table {
     height: 2em;
     width: 16em;
     font-size: larger;
+    padding: 1em;
+    margin: 2em;
 }
 
 .div {
@@ -32,4 +35,10 @@ table {
     margin-right: 4em;
     display: flex;
     justify-content: center;
+    box-shadow: 5px 10px 5px 10px #888888;
+}
+
+.index-tags {
+    color: rgb(53, 53, 78);
+    padding: 0px;
 }
