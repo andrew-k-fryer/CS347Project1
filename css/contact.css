@@ -17,6 +17,7 @@ p {
     font-size: x-large;
     flex-grow: 1;
     padding: 2em;
+    font-family: sans-serif;
 }
 
 form {
