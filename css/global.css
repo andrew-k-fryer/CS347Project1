@@ -55,3 +55,23 @@ body {
     font-size: large;
     margin-top: 2em;
 }
+
+@media only screen and (max-width: 600px) {
+    body {
+        display: flex;
+        justify-content: center;
+    }
+    header {
+        display: flex;
+        align-items: center;
+    }
+    h1, h3 {
+        align-self: center;
+        padding-bottom: 1em;
+        padding-left: none;
+        padding-right: none;
+    }
+    a {
+        padding-bottom: 1em;
+    }
+}
