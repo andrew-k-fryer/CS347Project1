@@ -3,14 +3,11 @@
 }
 
 #index-dog1 {
-    height: 400px;
-    width: 400px;
-    padding-left: 0px;
+    height: 200px;
+    width: 200px;
 }
 
 #index-dog2 {
-    height: 400px;
-    width: 400px;
-    padding-left: 2em;
-    padding-right: 0px;
+    height: 200px;
+    width: 200px;
 }
