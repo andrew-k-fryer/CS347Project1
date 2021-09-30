@@ -129,7 +129,7 @@ body {
     padding-bottom: 0em;
 }
 
-@media only screen and (max-width: 800px) {
+@media (min-width: 800px) {
     body {
         display: flex;
         justify-content: center;
@@ -143,15 +143,15 @@ body {
         padding-bottom: 1em;
         padding-left: none;
         padding-right: none;
+        font-size: x-large;
+    }
+    h3 {
+        font-size: medium;
     }
     a {
-        padding: .5em;
+        padding: 4.12em;
         font-size: medium;
         margin: auto;
         padding-bottom: 2em;
-    }
-    .div {
-        height: 200px;
-        width: 600px;
     }
 }

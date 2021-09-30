@@ -12,3 +12,9 @@ img {
     height: 250px;
     width: 150px;
 }
+
+@media (min-width: 800px) {
+    img {
+        height: 300px;
+    }
+}
