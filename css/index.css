@@ -1,42 +1,5 @@
-body {
-    background-color: white;
-    display: flex;
-    flex-direction: column;
-}
-
-h2 {
-    color: rgb(53, 53, 78);
-    display: flex;
-    font-size: xx-large;
-    align-self: center;
-    margin-top: 4em;
-}
-
-p {
-    flex-grow: 1;
-    font-size: x-large;
-    padding-left: 4em;
-    padding-right: 4em;
-    width: 400px;
-    font-family: sans-serif;
-}
-
-.div {
-    background-color: white;
-    margin-left: 4em;
-    margin-right: 4em;
-    display: flex;
-    align-items: center;
-    box-shadow: 5px 10px 5px 10px #888888;
-}
-
 .left-side {
     padding-right: 2em;
-}
-
-.index-tags {
-    color: rgb(53, 53, 78);
-    padding: 0px;
 }
 
 #index-dog1 {
