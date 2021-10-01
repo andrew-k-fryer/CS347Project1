@@ -129,7 +129,7 @@ body {
     padding-bottom: 0em;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 300px) and (max-width: 1100px) {
     body {
         display: flex;
         justify-content: center;
@@ -149,7 +149,7 @@ body {
         font-size: medium;
     }
     a {
-        padding: 4.12em;
+        padding: 4.1em;
         font-size: medium;
         margin: auto;
         padding-bottom: 2em;
