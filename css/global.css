@@ -100,8 +100,8 @@ nav {
 
 a {
     color: darkcyan;
-    padding: 4em;
-    padding-left: 3em;
+    margin: 4em;
+    margin-left: 3em;
     font-weight: bolder;
     font-size: larger;
 }
@@ -149,7 +149,7 @@ body {
         font-size: medium;
     }
     a {
-        padding: 4.1em;
+        margin: 4.1em;
         font-size: medium;
         margin: auto;
         padding-bottom: 2em;
