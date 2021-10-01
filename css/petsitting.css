@@ -13,8 +13,8 @@ img {
     width: 150px;
 }
 
-@media (min-width: 800px) {
+@media (min-width: 300px) and (max-width: 800px) {
     img {
-        height: 400px;
+        height: 300px;
     }
 }
