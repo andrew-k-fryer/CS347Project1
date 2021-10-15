@@ -1,0 +1,19 @@
+1. What did you like about this website?
+	x. I liked the uniform style across all webpages
+2. Describe one significant difference between your own P1 site and this person's. E.g.
+2a. Which has a better user experience (and why)?
+	x. I think the one thing that sets my site apart slightly is the nav bar at the top of my page, as it is slightly easier ton locate and navigate
+2b. Which codebase do you think would be more maintainable (and why)?
+	x. I think this projects code base will be more maintainable, as css is used when needed for a uniform style, however pages aren't restricted by the css
+3. Is the code well-structured within files, and well-organized between files and directories?
+	x. Yes
+3a. if not, suggest some specific improvements
+	x. N/A
+4. Did you find any other issues? If so, briefly enumerate them.
+	x. I would recommend adding some color to your page, (font, off-color backgrounds, etc) to make elements pop more.
+4a. were semantically appropriate elements selected
+	x. Yes
+4b. is the CSS refactored to limit duplication?
+	x. Yes
+5. Do you have any other constructive comments for the author?
+	x. I liked your website! It was easy to navigate, presented a clear and concise topic, and covered many aspects of what we've learned in CS374.
